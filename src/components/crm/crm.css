@@ -1,0 +1,128 @@
+.crm{
+    height: 100vh;
+    
+}
+.crm-heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3.5rem;
+    font-family: 'Rubik', sans-serif;
+        font-size: 3rem;
+        font-family: 'Rubik', sans-serif;
+        line-height: 1.2;
+        word-break: break-word;
+        word-wrap: break-word;
+        font-weight: 700;
+}
+.crm-heading > h1{
+    
+    line-height: 1.2;
+        font-family: 'Rubik', sans-serif;
+        color: #232323;
+        word-wrap: break-word;
+        font-weight: bolder;
+            font-size: smaller;
+}
+.main-content{
+    display: flex;
+    flex: row;
+}
+.crm-img{
+    /* display: flex;
+    justify-content: center;
+    padding: 4rem 23rem 0 0 ; */
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    margin-left: 20rem;
+    margin-top: 3rem;
+        margin-right: 2rem;
+}
+.crm-img img{
+    height: 75vh;
+    width: 65vh;
+}
+
+.crm-content {
+    flex: 1;
+        display: flex;
+        justify-content: flex-end;
+        align-items: flex-start;
+        flex-direction: column;
+            padding-bottom: 8rem !important;
+            padding-left: 3rem !important;
+}
+.crm-content > h1{
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem !important;
+}
+/* .............................automatic............................. */
+.automatic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.automatic-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+.automatic-content > h1{
+    font-size: 3.5rem;
+    font-family: 'Rubik', sans-serif;
+     line-height: 1.2;
+        word-break: break-word;
+            word-wrap: break-word;
+            font-weight: 700;
+                margin-right: 3rem;
+                    margin-bottom: 1rem;
+}
+.automatic-content > h3{
+    font-weight: bold;
+    font-family: 'Rubik', sans-serif;
+    color: #232323;
+    font-size: 1.5rem;
+    word-wrap: break-word;
+    padding-right: 4rem;
+}
+.main-content-auto{
+    display: flex;
+    justify-content: center;
+    padding-top: 5rem;
+        padding-bottom: 6rem;
+        margin-top: -5rem;
+        line-height: 1.5;
+}
+
+/* .................xxxxxxxxxxxxxxxxxxxxxx............automatic................xxxxxxxxxxxxxxxxxxxxxx............. */
+#calls-img > img{
+    height: 95%;
+
+}
+#calls-head >{
+
+}
+/* ...............................................xxxxxxxxxxxxxxx.......................... */
+
+/* .................................check progress.......................... */
+#checkprogress{
+    margin-top: -10rem;
+}
+/* ..........................track.......... */
+#track > h1{
+    font-weight: bolder;
+        font-size: 4rem;
+}
+#track-img > img{
+    height: 95%;
+}
+/* ...............................track...............xxxxxx................ */
+
+
+
+#integration-img{
+    height: 80vh;
+}

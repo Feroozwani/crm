@@ -1,0 +1,25 @@
+.child__container{
+    display: flex;
+    margin: 8px;
+}
+.child__img img{
+    height: 80px;
+    margin-right: 11px;
+        margin-top: 6px;
+}
+.model__title{
+    font-size: 27px;
+        font-family: sans-serif;
+        font-weight: 100;
+}
+h2{
+    font-size: 27px;
+}
+.child__body{
+    height: 30px;
+    width: 30px;
+    background-color: red;
+}
+.child__content p{
+    line-height: 1px;
+}

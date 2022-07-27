@@ -1,0 +1,22 @@
+.main{
+    justify-content: center;
+        flex-direction: column;
+        display: grid;
+        margin-top: 2rem;
+}
+.main > h3{
+    font-size: 18px;
+    background: #e7e7fb;
+    margin-bottom: 1rem;
+    border-radius: 12rem;
+}
+.main > h1{
+    font-size: 3rem;
+}
+
+.faqs-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}

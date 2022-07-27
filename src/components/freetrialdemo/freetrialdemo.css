@@ -1,0 +1,20 @@
+.container{
+    height: 50vh;
+    text-align: center;
+    margin-top: 7rem;
+}
+#sm{
+    font-size: 1.5rem;
+}
+#btn-trial Button{
+    background: #7b68ee !important;
+    height: 4rem;
+    width: 18rem;
+}
+#btn-trial Button:hover{
+    background: #312574 !important;
+}
+.container > h5{
+    font-size: 4rem;
+    font-weight: 700;
+}

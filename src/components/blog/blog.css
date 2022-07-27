@@ -1,0 +1,17 @@
+.blog__container{
+    height: 100vh;
+    background: #efefef;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+.blog__post{
+   
+   
+}
+.links{
+    background: #000;
+    height: 50vh;
+}

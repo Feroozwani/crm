@@ -1,0 +1,51 @@
+.tryrow {
+    margin-top: 5%;
+    display: flex;
+    padding: 3rem;
+    justify-content: space-between;
+
+}
+
+.trycol {
+    flex-basis: 31%;
+    background: rgb(250, 247, 247);
+    border-radius: 10px;
+    margin-bottom: 5%;
+    height: 60vh;
+    /* padding-top: 3rem; */
+    /* padding-right: 1rem; */
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+
+.trycol:hover {
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.5);
+}
+
+.trycol img {
+    height: 30vh;
+    border-radius: 20px;
+}
+
+.main-heading {
+    text-align: center;
+    font-weight: 600;
+    margin: 10px 0;
+
+    display: inline;
+}
+
+.sub-head {
+    color: #777;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+    padding: 10px;
+}
+
+#btn-try {
+    padding-bottom: 5rem;
+    margin-top: -5rem;
+
+}

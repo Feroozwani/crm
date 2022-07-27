@@ -1,0 +1,47 @@
+.dumb__container{
+    height: 50vh;
+     background: linear-gradient(45deg, #7b68ee, #531DB3);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.dumb__left{
+    font-size: 1.5rem;
+    color: #fff;
+    line-height: 1.4;
+    font-family: 'Rubik', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    margin-left: 9rem;
+    word-break: break-word;
+     word-wrap: break-word;
+}
+.dumb__left > h4{
+    line-height: 1.4;
+    font-family: 'Rubik', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1;
+    word-break: break-word;
+    word-wrap: break-word;
+}
+.dumb__right > button{
+    height: 4rem;
+    margin-right: 12rem;
+    cursor: pointer;
+    width: 15rem;
+    background: #fff;
+    border-radius: 100px;
+    color: #7b68ee !important;
+    font-weight: 700;
+    border-width: 2px;
+    font-style: normal;
+    letter-spacing: 1px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 1rem;
+}
+.dumb__right > button:hover{
+    background: rgb(55, 55, 138);
+    color: #fff !important;
+}

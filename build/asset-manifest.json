@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58d050f4.css",
+    "main.js": "/static/js/main.da94c0d5.js",
+    "static/media/header.jpg": "/static/media/header.37d59bbc51be63751069.jpg",
+    "static/media/crm-pic1.jpg": "/static/media/crm-pic1.97afeff2dc86b6ad4f99.jpg",
+    "static/media/integration.jpg": "/static/media/integration.38171747e7811f1b1870.jpg",
+    "static/media/try2.jpg": "/static/media/try2.c13ef38611afec0af9e8.jpg",
+    "static/media/telecrm-logo.png": "/static/media/telecrm-logo.e0807e32d5ad37d4832f.png",
+    "static/media/try3.jpg": "/static/media/try3.c62155f883935dcb84fa.jpg",
+    "static/media/test3.jpg": "/static/media/test3.903cc5eedd6b7be5ea1b.jpg",
+    "static/media/check.jpg": "/static/media/check.ad1110b56268e9c357a5.jpg",
+    "static/media/try1.jpg": "/static/media/try1.3fc8fb061fc97bd5c52b.jpg",
+    "static/media/carpic3.jpg": "/static/media/carpic3.abbb7fb590b2f47c602d.jpg",
+    "static/media/calls.jpg": "/static/media/calls.2b0802db321b7cb7c58f.jpg",
+    "static/media/track.jpg": "/static/media/track.f9098b849407563fcb8c.jpg",
+    "static/media/automatic.jpg": "/static/media/automatic.b01e315f9eec6c214c41.jpg",
+    "static/media/fe10.jpg": "/static/media/fe10.48806006a423d4e7d191.jpg",
+    "static/media/fe3.jpg": "/static/media/fe3.813c607fad99010de93b.jpg",
+    "static/media/fe17.jpg": "/static/media/fe17.200ffbce267be68f7d31.jpg",
+    "static/media/fe19.jpg": "/static/media/fe19.200ffbce267be68f7d31.jpg",
+    "static/media/fe12.jpg": "/static/media/fe12.1b998cff0c68780b2bfb.jpg",
+    "static/media/fe11.jpg": "/static/media/fe11.77153f2d61f04e79a42b.jpg",
+    "static/media/fe13.jpg": "/static/media/fe13.c71302ab445f697213dd.jpg",
+    "static/media/fe14.jpg": "/static/media/fe14.7318fb9a1c23550af294.jpg",
+    "static/media/fe6.jpg": "/static/media/fe6.bd140119debd294f3631.jpg",
+    "static/media/fe18.jpg": "/static/media/fe18.04438e2558c455f74124.jpg",
+    "static/media/fe20.jpg": "/static/media/fe20.04438e2558c455f74124.jpg",
+    "static/media/fe4.jpg": "/static/media/fe4.5452a874e255e7828b4b.jpg",
+    "index.html": "/index.html",
+    "main.58d050f4.css.map": "/static/css/main.58d050f4.css.map",
+    "main.da94c0d5.js.map": "/static/js/main.da94c0d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58d050f4.css",
+    "static/js/main.da94c0d5.js"
+  ]
+}

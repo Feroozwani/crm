@@ -1,0 +1,7 @@
+.carousel-indicators{
+    display: none;
+}
+.carousel-dark .carousel-control-next-icon,
+.carousel-dark .carousel-control-prev-icon {
+   
+    transform: translateY(184px);}

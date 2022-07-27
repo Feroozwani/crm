@@ -1,0 +1,84 @@
+.tryityourself {
+
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding-top: 37px;
+
+}
+.btn{
+    height: 3rem;
+    width: 15rem;
+    border-radius: 10rem;
+  
+}
+.btn Button{
+     background-color: #7b68ee !important;
+    border-color: #7b68ee !important;
+    color: #ffffff !important;     
+}
+.btn Button:hover{
+    background: #2d2464 !important;
+}
+.heading {
+    font-size: 3rem;
+    font-weight: 600;
+        padding-top: 2rem;
+            margin-top: 1rem;
+   
+}
+
+.para {
+    color: #777;
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 22px;
+    padding: 10px;
+}
+
+.tryrow {
+    margin-top: 5%;
+    display: flex;
+    padding: 3rem;
+    justify-content: space-between;
+
+}
+
+.trycol {
+    flex-basis: 31%;
+    background: rgb(250, 247, 247);
+    border-radius: 10px;
+    margin-bottom: 5%;
+        /* padding-top: 3rem; */
+            /* padding-right: 1rem; */
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+.trycol:hover {
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.5);
+}
+.trycol img{
+    height: 30vh;
+    border-radius: 20px;
+}
+
+.main-heading{
+    text-align: center;
+    font-weight: 600;
+    margin: 10px 0;
+   
+    display: inline;
+}
+.sub-head{
+    color: #777;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+    padding: 10px;
+}
+#btn-try{
+    padding-bottom: 5rem;
+        margin-top: -5rem;
+       
+}
