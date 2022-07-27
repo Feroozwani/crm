@@ -11,7 +11,7 @@
     box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.5);
 }
 .card__img img{
-    width: 457px;
+    width: 257px;
     border-radius: 19px;
     object-fit: cover;
 }
